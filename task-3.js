@@ -7,4 +7,6 @@ const student = {
         marks: 30
     }
 };
+console.log(student.physics.marks);
+
 console.log(Object.keys(student).length);
