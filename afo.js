@@ -74,6 +74,8 @@ const obj=object.name;
 const about = `   The name of the ${object['name']} and the number is ${number[3]}`;
 console.log(about);
 
+
+
  
  
 
