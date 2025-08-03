@@ -55,6 +55,35 @@ console.log(spradeOperator);
 
 
 
+// Object 
+const object ={
+    name: 'Rakib',
+    age: 23,
+    department: 'CSE'
+};
+const obj=object.name;
+// full obj Print
+ console.log(object);
+//  ..............3 type of the print of the obj
+ console.log(object['department']);
+ console.log(object.age);
+ console.log(obj);
+ 
+//  Tamplate string
+
+const about = `   The name of the ${object['name']} and the number is ${number[3]}`;
+console.log(about);
+
+ 
+ 
+
+ 
+ 
+
+
+
+
+
 
 
 
